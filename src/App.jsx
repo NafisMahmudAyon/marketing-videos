@@ -72,7 +72,7 @@ function App() {
 			id: 9,
 			title: "মাত্র ১ দিনে ১০ লাখ টাকা সেল করার চ্যালেঞ্জ - ক্লাস ০৯",
 			desc: "Explore the fundamental principles of data science.",
-			url: "/video-09.mp4",
+			url: "https://marketing-video.nafisbd.com/video-09.mp4",
 			tags: ["data science", "analytics", "statistics"],
 			videoLength: "22:45",
 		},
@@ -166,6 +166,7 @@ function App() {
 }
 
 export default App;
+
 
 
 
